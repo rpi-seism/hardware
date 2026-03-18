@@ -1,1 +1,3 @@
-# hardware
+# RPI-SEISM Hardware
+
+Cooming soon
